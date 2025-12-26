@@ -138,7 +138,7 @@ medsos: [
 ```
 ---
 ## 🔗 Custom Link Button
-```html
+```javascript
 links: [
   { text: "My Portfolio", url: "https://example.com" },
   { text: "Download CV", url: "https://example.com/cv.pdf" }
