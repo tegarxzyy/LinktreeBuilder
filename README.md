@@ -144,8 +144,7 @@ links: [
   { text: "Download CV", url: "https://example.com/cv.pdf" }
 ]
 ```
-
-Icon akan terdeteksi otomatis berdasarkan teks atau URL.
+> Icon akan terdeteksi otomatis berdasarkan teks atau URL.
 ---
 ## 🌓 Dark Mode
 > Library ini otomatis mengikuti **dark mode sistem** pengguna.
