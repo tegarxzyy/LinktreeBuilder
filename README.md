@@ -58,7 +58,7 @@ Sebelum menggunakan library ini, pastikan kamu sudah mengimpor:
 ```
 ---
 ## ⚙️ Cara Penggunaan
-Gunakan ini jika ingin lebih cepat : https://tegarxzyybuilder.netlify.app/
+Gunakan ini jika ingin lebih cepat : https://linktreebuilder.netlify.app/
 
 ---
 ```html
@@ -68,9 +68,8 @@ Gunakan ini jika ingin lebih cepat : https://tegarxzyybuilder.netlify.app/
     nama: "TegarxyyCode",
     deskripsi: "Web Developer | UI Engineer",
     medsos: [
-      {platform: "github", url: "#"},
-      {platform: "instagram", url: "#"},
-      {platform: "linkedin", url: "#"}
+      {platform: "github", url: "#tegarxzyy"},
+      {platform: "telegram", url: "#tegarxzyy"}
     ],
     links: [
       { text: "Portofolio", url: "#" },
