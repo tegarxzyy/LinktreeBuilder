@@ -25,13 +25,13 @@ Sebelum menggunakan library ini, pastikan kamu sudah mengimpor:
 **CSS**
 ```html
 <!-- CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hanzcode1/LinktreeBuilder@main/style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tegarxzyy/LinktreeBuilder@main/style.css">
 ```
 
 **JavaScript**
 ```html
 <!-- JavaScript -->
-<script src="https://cdn.jsdelivr.net/gh/hanzcode1/LinktreeBuilder@main/script.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/tegarxzyy/LinktreeBuilder@main/script.js"></script>
 ```
 ---
 ## 🧱 Struktur HTML Dasar
@@ -76,7 +76,7 @@ Gunakan ini jika ingin lebih cepat : https://linktreebuilder.netlify.app/
       { text: "Portofolio", url: "#" },
       { text: "Blog", url: "#" }
     ],
-    footer: "© Hanzcode"
+    footer: "© TegarxzyyCode"
   });
 </script>
 ```
@@ -129,14 +129,14 @@ Gunakan ini jika ingin lebih cepat : https://linktreebuilder.netlify.app/
 
 **Contoh Penggunaan String**
 ```javascript
-medsos: ["github", "instagram", "twitter"]
+medsos: ["github", "telegram"]
 ```
 
 **Contoh Penggunaan Object**
 ```javascript
 medsos: [
   { platform: "github", url: "https://github.com/tegarxzyy" },
-  { platform: "instagram", url: "https://telegram.com/tegarxzyy" }
+  { platform: "telegram", url: "https://t.me/tegarxzyy" }
 ]
 ```
 ---
