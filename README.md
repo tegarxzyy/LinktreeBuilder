@@ -65,7 +65,7 @@ Gunakan ini jika ingin lebih cepat : https://linktreebuilder.netlify.app/
 <script>
   Linktree.init({
     img: "img/profile.png",
-    nama: "Hanzcode",
+    nama: "TegarxyyCode",
     deskripsi: "Web Developer | UI Engineer",
     medsos: [
       {platform: "github", url: "#"},
@@ -135,8 +135,8 @@ medsos: ["github", "instagram", "twitter"]
 **Contoh Penggunaan Object**
 ```javascript
 medsos: [
-  { platform: "github", url: "https://github.com/hanzcode" },
-  { platform: "instagram", url: "https://instagram.com/hanz.dev" }
+  { platform: "github", url: "https://github.com/tegarxzyy" },
+  { platform: "instagram", url: "https://telegram.com/tegarxzyy" }
 ]
 ```
 ---
